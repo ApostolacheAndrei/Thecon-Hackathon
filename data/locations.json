@@ -1,0 +1,76 @@
+[
+  {
+    "id": "1",
+    "name": "Cafeneaua Studențească",
+    "address": "Strada Universității 15, Cluj-Napoca",
+    "coordinates": {
+      "latitude": 46.7712,
+      "longitude": 23.6236
+    },
+    "image_url": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?w=800",
+    "short_description": "Un loc perfect pentru studenți, cu WiFi rapid și prețuri accesibile. Atmosferă relaxată și cafea excelentă.",
+    "rating": 4.5
+  },
+  {
+    "id": "2",
+    "name": "Restaurantul Academic",
+    "address": "Bulevardul Eroilor 20, Cluj-Napoca",
+    "coordinates": {
+      "latitude": 46.7699,
+      "longitude": 23.5894
+    },
+    "image_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+    "short_description": "Mâncare tradițională românească la prețuri student-friendly. Porții generoase și servire rapidă.",
+    "rating": 4.3
+  },
+  {
+    "id": "3",
+    "name": "The Study Hub",
+    "address": "Piața Unirii 2, Cluj-Napoca",
+    "coordinates": {
+      "latitude": 46.7700,
+      "longitude": 23.5900
+    },
+    "image_url": "https://images.unsplash.com/photo-1521017432531-fbd92d768814?w=800",
+    "short_description": "Spațiu de lucru dedicat studenților. Mese mari, prize peste tot și atmosferă liniștită pentru studiu.",
+    "rating": 4.7
+  },
+  {
+    "id": "4",
+    "name": "Pizza Express Student",
+    "address": "Strada Memorandumului 28, Cluj-Napoca",
+    "coordinates": {
+      "latitude": 46.7680,
+      "longitude": 23.5850
+    },
+    "image_url": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=800",
+    "short_description": "Pizza delicioasă cu reduceri pentru studenți. Livrare rapidă și prețuri foarte accesibile.",
+    "rating": 4.2
+  },
+  {
+    "id": "5",
+    "name": "Cafeneaua Nocturnă",
+    "address": "Strada Horea 10, Cluj-Napoca",
+    "coordinates": {
+      "latitude": 46.7720,
+      "longitude": 23.5950
+    },
+    "image_url": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?w=800",
+    "short_description": "Deschis până târziu, perfect pentru sesiuni de studiu nocturne. Băuturi energizante și snacks sănătoși.",
+    "rating": 4.4
+  },
+  {
+    "id": "6",
+    "name": "Burger House Student",
+    "address": "Bulevardul 21 Decembrie 1989 77, Cluj-Napoca",
+    "coordinates": {
+      "latitude": 46.7740,
+      "longitude": 23.6000
+    },
+    "image_url": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=800",
+    "short_description": "Burgeri delicioși și porții mari. Meniu special pentru studenți cu reduceri semnificative.",
+    "rating": 4.6
+  }
+]
+
+
